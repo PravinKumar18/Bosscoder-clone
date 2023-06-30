@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_50" data-name="Rectangle 50" width="32" height="40" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="star_people_svg" transform="translate(-8543 -5180)">
+    <rect id="Rectangle_49" data-name="Rectangle 49" width="50" height="50" transform="translate(8543 5180)" fill="#00183e"/>
+    <g id="Group_29" data-name="Group 29" transform="translate(8552 5190)" clip-path="url(#clip-path)">
+      <path id="Path_47" data-name="Path 47" d="M27.545,25.39H24.584l-.914-2.815-.915,2.815H19.8l2.394,1.74-.915,2.814,2.394-1.738,2.394,1.736-.913-2.813Z" fill="#eeecfa"/>
+      <path id="Path_48" data-name="Path 48" d="M24.412,19.747c0-2.847-2.262-6.171-8.639-6.171S7.134,16.9,7.134,19.747v1.234H24.412Z" fill="#eeecfa"/>
+      <path id="Path_49" data-name="Path 49" d="M15.773,12.342A6.171,6.171,0,1,0,9.6,6.171,6.178,6.178,0,0,0,15.773,12.342Z" fill="#eeecfa"/>
+      <path id="Path_50" data-name="Path 50" d="M8.79,25.446l-.915-2.815L6.96,25.446H4l2.394,1.74L5.481,30l2.394-1.738L10.27,30l-.915-2.813,2.394-1.74Z" fill="#eeecfa"/>
+      <path id="Path_51" data-name="Path 51" d="M16.687,25.39l-.915-2.815-.915,2.815H11.9l2.4,1.74-.915,2.814,2.394-1.738,2.394,1.738-.914-2.814,2.4-1.74Z" fill="#eeecfa"/>
+    </g>
+  </g>
+</svg>

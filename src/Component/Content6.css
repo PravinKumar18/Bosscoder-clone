@@ -1,0 +1,26 @@
+.cart6{
+    width: 250px;
+    height: 300px;
+    border: 1px solid white;
+    background-color: white;
+    border-radius: 2%;
+  
+}
+
+.content6-top{
+    height: 600px;
+    background-color: #f8f9fa;
+
+}
+.content6-cart{
+    width: 80%;
+    
+    margin: auto;
+    display: flex;
+    justify-content: space-evenly;
+}
+.car6img{
+    padding-top: 10px;
+    width: 70px;
+  
+}

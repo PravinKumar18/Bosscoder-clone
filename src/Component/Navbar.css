@@ -1,0 +1,41 @@
+.container1{
+    display: flex;
+    justify-content: space-around;
+    background-color: #fff;
+    align-items: center;
+    
+}
+.two{
+    display: flex;
+}
+.container1 ul li{
+    list-style: none;
+    padding: 15px;
+    font-size: medium;       
+    font-weight: bold;
+    
+}
+
+.btn1{
+    height: 40px;
+    width: 130px;
+    font-weight: bold;
+    font-size: medium;
+    color: white;
+    background-color: red;
+    border-radius: 5%;
+    border: 0ch;
+}
+.link{
+    text-decoration: none;
+    color: black;
+}
+.link:hover{
+    color: blue;
+    cursor: pointer;
+}
+@media screen and (max-width: 600px) and (min-width: 400px) {
+    .container1{
+        display: none;
+    }
+}

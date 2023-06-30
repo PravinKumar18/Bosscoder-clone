@@ -1,0 +1,29 @@
+.content5-display{
+    display: flex;
+    justify-content: space-around;
+    text-align: left;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.content5-top{
+    height: 850px;
+    background-color: #fff;
+    
+}
+.content5-img{
+    width: 300px;
+
+
+}
+.logodiv{
+    display: flex;
+    
+   
+}
+.logoimg{
+    padding-right: 35px;
+}
+.contentp5{
+    font-size: 22px;
+    font-weight: 350;
+}

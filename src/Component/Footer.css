@@ -1,0 +1,49 @@
+.footer-top{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 20px;
+    text-align: left;
+}
+.footer-div{
+    text-align: left;
+}
+.ul{
+    list-style: none;
+    
+    
+}
+.ll{
+    padding: 5px;
+    cursor: pointer;
+}
+.svg{
+   
+    display: flex;
+    
+}
+.svgimg{
+    padding-right: 7px;
+}
+.footerp{
+    font-size: 18px;
+    font-weight: bold;
+    color: #276ef1;
+}
+.footerpp{
+    font-size: 18px;
+    font-weight: bold;
+    color: #276ef1;
+    text-align: left;
+    padding-left: 40px;
+}
+.span{
+    font-weight: bold;
+}
+.email{
+    cursor: pointer;
+    font-weight: light;
+    color: #276ef1;
+}
+.curser{
+    cursor: pointer;
+}

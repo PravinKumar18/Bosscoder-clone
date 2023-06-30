@@ -1,0 +1,34 @@
+.six{
+    display: flex;
+    justify-content: space-evenly;
+    height: 600px;
+    background-color: rgb(2, 2, 95);
+    color: white;
+    padding-top: 1%;
+}
+
+.img1{
+    height: 500px;
+}
+.contentp{
+    font-size: 26px;
+    font-weight: 350;
+   
+}
+
+.contenth{
+    font-size: 43px;
+    font-weight: bolder;
+}
+.div1{
+    text-align: left;
+}
+.div2{
+    padding-top: 45px;
+}
+
+@media screen and (max-width: 600px) and (min-width: 400px) {
+    .six{
+        display: none;
+    }
+}
